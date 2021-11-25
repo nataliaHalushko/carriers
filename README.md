@@ -1,2 +1,2 @@
 
-Part of a project for bus carriers
+Part of a project for bus carriers (Laravel)
